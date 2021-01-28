@@ -1,4 +1,4 @@
-#Linked List
+# Linked List
 
 In c++ there are 2 classes which implement a linked list. The first being Forward List, representing a singularly linked list. The second being List, representing a doubly linked list
 
