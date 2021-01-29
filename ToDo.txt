@@ -1,6 +1,4 @@
 To Do: 
-Stack
-Queue / Priority Queue / Deque
 Maps
 List / Forward List
 Trees
