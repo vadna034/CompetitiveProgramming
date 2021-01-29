@@ -2,7 +2,7 @@
 
 ## Preprocessor Directives
 
-#include <stack>
+#include \<stack\>
 
 ## Constructors
 
