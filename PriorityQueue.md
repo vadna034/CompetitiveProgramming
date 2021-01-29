@@ -4,9 +4,9 @@ Heap with sorting based upon a priority funciton
 
 ## Preprocessor Directives
 
-#include /<queue/>
+#include \<queue\>
 
-#include /<functional/> (only used in the case that you want to easily create a min-heap)
+#include \<functional\> (only used in the case that you want to easily create a min-heap)
 
 ## Constructors
 
