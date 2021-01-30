@@ -45,7 +45,7 @@ class Fenwick {
     void add(int idx, int delta) {
         while(idx < fenwick.size()){
             fenwick[idx] += delta;
-            idx = idx + (idx & (-idx));
+            idx = idx + LSB(idx);
         }
     }
 
