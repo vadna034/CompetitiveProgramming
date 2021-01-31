@@ -1,6 +1,6 @@
 # unordered_map
 
-Unordered map allows for mapping of key value pairs in an unordered fashion. O(1) insertion and O(1) access. 
+Unordered map allows for mapping of key value pairs in an unordered fashion. O(1) insertion and O(1) access. (Note: unordered_multimap is an implementation that allows multiple keys of same value to be inserted. This only changes the method .count() )
 
 ## Preprocessor Directives
 
