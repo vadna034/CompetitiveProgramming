@@ -1,10 +1,7 @@
 To Do: 
-Maps
 List / Forward List
 Trees
 Binary Trees
 Heaps
 Tries (implement this in c++)
-Segment Trees (maybe implement else use fenwich)
-Fenwick Trees
 Disjoin Untion
