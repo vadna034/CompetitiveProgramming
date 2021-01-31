@@ -1,5 +1,7 @@
 # Map
 
+Map is a data structure mapping keys to values. It stores the keys in ordered fashion. O(log n)) access, and O(log n)) insertion. 
+
 ## Preprocessor Directives
 
 #include \<map\>
