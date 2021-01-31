@@ -2,6 +2,10 @@
 
 Unordered map allows for mapping of key value pairs in an unordered fashion. O(1) insertion and O(1) access. 
 
+## Preprocessor Directives
+
+#include \<unordered_map\>
+
 ## Constructors
 
 ```c++
