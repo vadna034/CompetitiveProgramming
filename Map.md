@@ -1,6 +1,6 @@
 # Map
 
-Map is a data structure mapping keys to values. It stores the keys in ordered fashion. O(log n)) access, and O(log n)) insertion. 
+Map is a data structure mapping keys to values. It stores the keys in ordered fashion. O(log n)) access, and O(log n)) insertion. (Not multimap is an implementation of map that allows multiple inserts of same key. This changes only .count() method.)
 
 ## Preprocessor Directives
 
